@@ -1,0 +1,21 @@
+03:00:07.797|SMSG|15903| MTI  : 0200
+03:00:07.797|SMSG|15903| Header Fields:
+03:00:07.797|SMSG|15903| 'Transport Protocol            ' H.1    : [`]
+03:00:07.797|SMSG|15903| 'Destination Address           ' H.2    : [0003]
+03:00:07.797|SMSG|15903| 'Originator Address            ' H.3    : [0000]
+03:00:07.797|SMSG|15903| Message Body Fields:
+03:00:07.797|SMSG|15903| 'Bit Map, Primary              ' B.0.1 : [\30\20\05\80\20\C0\90\06]
+03:00:07.797|SMSG|15903| 'Processing Code               ' B.3    : [000000]
+03:00:07.797|SMSG|15903| 'Amount, Transaction           ' B.4    : [000000010400]
+03:00:07.797|SMSG|15903| 'System Trace Audit Number (STA' B.11    : [141338]
+03:00:07.797|SMSG|15903| 'Point of Service Entry Mode   ' B.22    : [0021]
+03:00:07.797|SMSG|15903| 'Function Code                 ' B.24    : [0003]
+03:00:07.797|SMSG|15903| 'Message Reason Code           ' B.25    : [00]
+03:00:07.797|SMSG|15903| 'Track 2 Data                  ' B.35    : [676280*********919D1510101**********]
+03:00:07.797|SMSG|15903| 'Card Acceptor Terminal Identif' B.41    : [25018185]
+03:00:07.797|SMSG|15903| 'Card Acceptor Identification C' B.42    : [9294645882     ]
+03:00:07.797|SMSG|15903| 'Additional Data - Private     ' B.49    : [0643]
+03:00:07.797|SMSG|15903| 'PIN Data                      ' B.52    : [********]
+03:00:07.797|SMSG|15903| 'Private Use                   ' B.62    : [482533]
+03:00:07.797|SMSG|15903| 'Private Use                   ' B.63    : [\00\08\33\37\30\30\30\30\37\35]
+
